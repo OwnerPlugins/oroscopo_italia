@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "WATERMAN"
 
 msgid "ARIES"
-msgstr ""
+msgstr "RAM"
 
 msgid "CANCER"
-msgstr ""
+msgstr "KANKER"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "STEENBOK"
 
 msgid "Change"
-msgstr ""
+msgstr "Verander"
 
 msgid "Close"
-msgstr ""
+msgstr "Maak toe"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "TWEELING"
 
 msgid "Information"
-msgstr ""
+msgstr "Inligting"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Italië Horoskoop"
 
 msgid "LIBRA"
 msgstr ""
 
 msgid "LION"
-msgstr ""
+msgstr "LEEU"
 
 msgid "PISCES"
-msgstr ""
+msgstr "vis"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Wag asseblief, koppel tans aan die bediener..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "BOOGSKUTTER"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "SKERPIOEN"
 
 msgid "Select"
-msgstr ""
+msgstr "Kies"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Kies 'n sterreteken"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "STIER"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Vandag se horoskoop"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "MAAGD"

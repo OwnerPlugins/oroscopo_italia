@@ -11,61 +11,61 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "VÍZÖNTŐ"
 
 msgid "ARIES"
-msgstr ""
+msgstr "KOS"
 
 msgid "CANCER"
-msgstr ""
+msgstr "RÁK"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "BAK"
 
 msgid "Change"
-msgstr ""
+msgstr "Változás"
 
 msgid "Close"
-msgstr ""
+msgstr "Közeli"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "IKREK"
 
 msgid "Information"
-msgstr ""
+msgstr "Információ"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Olaszország horoszkóp"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "MÉRLEG"
 
 msgid "LION"
-msgstr ""
+msgstr "OROSZLÁN"
 
 msgid "PISCES"
-msgstr ""
+msgstr "hal"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Kérjük, várjon, csatlakozunk a szerverhez..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "NYILAS"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "SKORPIÓ"
 
 msgid "Select"
-msgstr ""
+msgstr "Válassza ki"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Válasszon ki egy csillagjegyet"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "BIKA"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "A mai horoszkóp"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "SZŰZ"

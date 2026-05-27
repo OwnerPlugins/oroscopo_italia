@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "دلو"
 
 msgid "ARIES"
-msgstr ""
+msgstr "برج حمل"
 
 msgid "CANCER"
-msgstr ""
+msgstr "سرطان"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "برج جدی"
 
 msgid "Change"
-msgstr ""
+msgstr "تغییر دهید"
 
 msgid "Close"
-msgstr ""
+msgstr "بستن"
 
 msgid "GEMINI"
 msgstr ""
 
 msgid "Information"
-msgstr ""
+msgstr "اطلاعات"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "فال ایتالیا"
 
 msgid "LIBRA"
 msgstr ""
 
 msgid "LION"
-msgstr ""
+msgstr "شیر"
 
 msgid "PISCES"
-msgstr ""
+msgstr "ماهی"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "لطفا صبر کنید، در حال اتصال به سرور..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "کمان"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "عقرب"
 
 msgid "Select"
-msgstr ""
+msgstr "انتخاب کنید"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "یک علامت زودیاک را انتخاب کنید"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "ثور"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "فال امروز"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "باکره"

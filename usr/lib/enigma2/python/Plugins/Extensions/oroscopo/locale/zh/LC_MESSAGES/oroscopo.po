@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "水瓶座"
 
 msgid "ARIES"
-msgstr ""
+msgstr "白羊座"
 
 msgid "CANCER"
-msgstr ""
+msgstr "癌症"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "摩羯座"
 
 msgid "Change"
-msgstr ""
+msgstr "改变"
 
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "双子座"
 
 msgid "Information"
-msgstr ""
+msgstr "信息"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "意大利星座"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "天秤座"
 
 msgid "LION"
-msgstr ""
+msgstr "狮子"
 
 msgid "PISCES"
-msgstr ""
+msgstr "鱼"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "请稍候，正在连接服务器..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "射手座"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "蝎"
 
 msgid "Select"
-msgstr ""
+msgstr "选择"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "选择一个星座"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "金牛座"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "今日星座运势"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "处女座"

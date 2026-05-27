@@ -11,61 +11,61 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "ŪDENSVĪRS"
 
 msgid "ARIES"
-msgstr ""
+msgstr "AUNS"
 
 msgid "CANCER"
-msgstr ""
+msgstr "VĒZIS"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "MEŽĀZIS"
 
 msgid "Change"
-msgstr ""
+msgstr "Mainīt"
 
 msgid "Close"
-msgstr ""
+msgstr "Aizvērt"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "DVĪŅI"
 
 msgid "Information"
-msgstr ""
+msgstr "Informācija"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Itālijas horoskops"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "SVARI"
 
 msgid "LION"
-msgstr ""
+msgstr "LAUVA"
 
 msgid "PISCES"
-msgstr ""
+msgstr "zivis"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Lūdzu, uzgaidiet, tiek izveidots savienojums ar serveri..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "STRĒLNIEKS"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "SKORPIONS"
 
 msgid "Select"
-msgstr ""
+msgstr "Izvēlieties"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Izvēlieties zodiaka zīmi"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "VĒRSIS"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Šodienas horoskops"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "JAUNAVA"

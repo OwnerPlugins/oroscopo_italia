@@ -16,55 +16,55 @@ msgid "ARIES"
 msgstr ""
 
 msgid "CANCER"
-msgstr ""
+msgstr "ကင်ဆာ"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "ကာပရစ်ကွန်"
 
 msgid "Change"
-msgstr ""
+msgstr "ပြောင်းလဲပါ။"
 
 msgid "Close"
-msgstr ""
+msgstr "ပိတ်လိုက်"
 
 msgid "GEMINI"
 msgstr ""
 
 msgid "Information"
-msgstr ""
+msgstr "သတင်းအချက်အလက်"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "လေးကတော့ Horoscope ပါ။"
 
 msgid "LIBRA"
 msgstr ""
 
 msgid "LION"
-msgstr ""
+msgstr "ခြင်္သေ့"
 
 msgid "PISCES"
-msgstr ""
+msgstr "ငါး"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "ဆာဗာသို့ ချိတ်ဆက်နေသည်..."
 
 msgid "SAGITTARIUS"
 msgstr ""
 
 msgid "SCORPION"
-msgstr ""
+msgstr "ScorPION"
 
 msgid "Select"
-msgstr ""
+msgstr "ရွေးချယ်ပါ။"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Zodiac Sign ကို ရွေးပါ။"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "TauRUS"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "ယနေ့ ဇာတာရှင်"
 
 msgid "VIRGO"
 msgstr ""

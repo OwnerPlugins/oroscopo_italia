@@ -13,7 +13,7 @@ msgid "AQUARIUS"
 msgstr ""
 
 msgid "ARIES"
-msgstr ""
+msgstr "ARAIDH"
 
 msgid "CANCER"
 msgstr ""
@@ -22,49 +22,49 @@ msgid "CAPRICORN"
 msgstr ""
 
 msgid "Change"
-msgstr ""
+msgstr "Atharraich"
 
 msgid "Close"
-msgstr ""
+msgstr "Dùin"
 
 msgid "GEMINI"
 msgstr ""
 
 msgid "Information"
-msgstr ""
+msgstr "Fiosrachadh"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Horoscope na h-Eadailt"
 
 msgid "LIBRA"
 msgstr ""
 
 msgid "LION"
-msgstr ""
+msgstr "LAOIDH"
 
 msgid "PISCES"
-msgstr ""
+msgstr "iasg"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Feuch an fuirich thu, a' ceangal ris an fhrithealaiche..."
 
 msgid "SAGITTARIUS"
 msgstr ""
 
 msgid "SCORPION"
-msgstr ""
+msgstr "Sgorpion"
 
 msgid "Select"
-msgstr ""
+msgstr "Tagh"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Tagh soidhne Zodiac"
 
 msgid "TAURUS"
 msgstr ""
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Horoscope an latha an-diugh"
 
 msgid "VIRGO"
 msgstr ""

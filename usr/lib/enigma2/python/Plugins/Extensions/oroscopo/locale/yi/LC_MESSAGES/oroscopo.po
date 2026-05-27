@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "אַקוואַריוס"
 
 msgid "ARIES"
-msgstr ""
+msgstr "עריז"
 
 msgid "CANCER"
-msgstr ""
+msgstr "ראַק"
 
 msgid "CAPRICORN"
 msgstr ""
 
 msgid "Change"
-msgstr ""
+msgstr "טוישן"
 
 msgid "Close"
-msgstr ""
+msgstr "נאָענט"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "געמיני"
 
 msgid "Information"
-msgstr ""
+msgstr "אינפֿאָרמאַציע"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "איטאליע האָראָסקאָפּע"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "ליבראַ"
 
 msgid "LION"
-msgstr ""
+msgstr "ליאָן"
 
 msgid "PISCES"
-msgstr ""
+msgstr "פיש"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "ביטע וואַרטן, קאַנעקטינג צו די סערווער ..."
 
 msgid "SAGITTARIUS"
 msgstr ""
 
 msgid "SCORPION"
-msgstr ""
+msgstr "סקאָרפּיאָן"
 
 msgid "Select"
-msgstr ""
+msgstr "אויסקלייַבן"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "אויסקלייַבן אַ זאָדיאַק צייכן"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "טאָראַס"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "הייַנט ס האָראָסקאָפּע"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "ווירגאָ"

@@ -16,37 +16,37 @@ msgid "ARIES"
 msgstr ""
 
 msgid "CANCER"
-msgstr ""
+msgstr "មហារីក"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "កាព្រីក"
 
 msgid "Change"
-msgstr ""
+msgstr "ផ្លាស់ប្តូរ"
 
 msgid "Close"
-msgstr ""
+msgstr "បិទ"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "ជីមីន"
 
 msgid "Information"
-msgstr ""
+msgstr "ព័ត៌មាន"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "ហោរាសាស្ត្រអ៊ីតាលី"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "លីបរ៉ា"
 
 msgid "LION"
-msgstr ""
+msgstr "តោ"
 
 msgid "PISCES"
-msgstr ""
+msgstr "ត្រី"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "សូមរង់ចាំ ដោយភ្ជាប់ទៅម៉ាស៊ីនមេ..."
 
 msgid "SAGITTARIUS"
 msgstr ""
@@ -55,16 +55,16 @@ msgid "SCORPION"
 msgstr ""
 
 msgid "Select"
-msgstr ""
+msgstr "ជ្រើសរើស"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "ជ្រើសរើសសញ្ញារាសីចក្រ"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "តារូស"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "ហោរាសាស្ត្រថ្ងៃនេះ"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "វីរហ្គោ"

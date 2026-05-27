@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "DOLÇA"
 
 msgid "ARIES"
-msgstr ""
+msgstr "QOÇ"
 
 msgid "CANCER"
-msgstr ""
+msgstr "XƏRÇƏNG"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "OĞLAQ"
 
 msgid "Change"
-msgstr ""
+msgstr "Dəyişmək"
 
 msgid "Close"
-msgstr ""
+msgstr "Bağlayın"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "ƏKİZLƏR"
 
 msgid "Information"
-msgstr ""
+msgstr "Məlumat"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "İtaliya ulduz falı"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "TƏRƏZİ"
 
 msgid "LION"
-msgstr ""
+msgstr "ŞİR"
 
 msgid "PISCES"
-msgstr ""
+msgstr "balıq"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Lütfən gözləyin, serverə qoşulur..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "OXATAN"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "ƏQRƏB"
 
 msgid "Select"
-msgstr ""
+msgstr "seçin"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Bürc işarəsini seçin"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "BUĞA"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Bu günün ulduz falı"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "QIZ BÜRCÜ"

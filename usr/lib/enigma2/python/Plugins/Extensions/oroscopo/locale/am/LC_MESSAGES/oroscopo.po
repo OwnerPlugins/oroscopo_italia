@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "አኩዋሪየስ"
 
 msgid "ARIES"
 msgstr ""
 
 msgid "CANCER"
-msgstr ""
+msgstr "ካንሰር"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "ካፕሪኮርን"
 
 msgid "Change"
-msgstr ""
+msgstr "ለውጥ"
 
 msgid "Close"
-msgstr ""
+msgstr "ገጠመ"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "ጀሚኒ"
 
 msgid "Information"
-msgstr ""
+msgstr "መረጃ"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "የጣሊያን ሆሮስኮፕ"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "ሊብራ"
 
 msgid "LION"
-msgstr ""
+msgstr "አንበሳ"
 
 msgid "PISCES"
-msgstr ""
+msgstr "አሳ"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "እባክህ ጠብቅ፣ ከአገልጋዩ ጋር በመገናኘት ላይ..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "ሳጊታሪየስ"
 
 msgid "SCORPION"
 msgstr ""
 
 msgid "Select"
-msgstr ""
+msgstr "ይምረጡ"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "የዞዲያክ ምልክት ይምረጡ"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "ታውረስ"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "የዛሬው ሆሮስኮፕ"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "ቪርጎ"

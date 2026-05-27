@@ -13,58 +13,58 @@ msgid "AQUARIUS"
 msgstr ""
 
 msgid "ARIES"
-msgstr ""
+msgstr "Mapacha"
 
 msgid "CANCER"
-msgstr ""
+msgstr "KANSA"
 
 msgid "CAPRICORN"
 msgstr ""
 
 msgid "Change"
-msgstr ""
+msgstr "Badilika"
 
 msgid "Close"
-msgstr ""
+msgstr "Funga"
 
 msgid "GEMINI"
 msgstr ""
 
 msgid "Information"
-msgstr ""
+msgstr "Habari"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Nyota ya Italia"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "MIZANI"
 
 msgid "LION"
-msgstr ""
+msgstr "SIMBA"
 
 msgid "PISCES"
-msgstr ""
+msgstr "samaki"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Tafadhali subiri, inaunganisha kwenye seva..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "MSHALE"
 
 msgid "SCORPION"
 msgstr ""
 
 msgid "Select"
-msgstr ""
+msgstr "Chagua"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Chagua Ishara ya Zodiac"
 
 msgid "TAURUS"
 msgstr ""
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Nyota ya Leo"
 
 msgid "VIRGO"
 msgstr ""

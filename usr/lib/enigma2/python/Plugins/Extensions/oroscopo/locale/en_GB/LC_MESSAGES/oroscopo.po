@@ -43,7 +43,7 @@ msgid "LION"
 msgstr ""
 
 msgid "PISCES"
-msgstr ""
+msgstr "fish"
 
 msgid "Please wait, connecting to the server..."
 msgstr ""

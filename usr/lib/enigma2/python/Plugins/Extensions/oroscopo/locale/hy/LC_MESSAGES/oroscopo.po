@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "ՋՐՀՈՍՆԵՐ"
 
 msgid "ARIES"
-msgstr ""
+msgstr "ԽՈՅ"
 
 msgid "CANCER"
-msgstr ""
+msgstr "ԽԵՑԳԵՏԻՆ"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "ԱՅԾԵՂՋՅՈՒՐ"
 
 msgid "Change"
-msgstr ""
+msgstr "Փոփոխություն"
 
 msgid "Close"
-msgstr ""
+msgstr "Փակել"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "ԵՐԿՎՈՐՅԱԿՆԵՐ"
 
 msgid "Information"
-msgstr ""
+msgstr "Տեղեկություն"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Իտալիայի Աստղագուշակ"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "ԿՇԵՌՔ"
 
 msgid "LION"
-msgstr ""
+msgstr "ԱՌՅՈՒԾ"
 
 msgid "PISCES"
-msgstr ""
+msgstr "ձուկ"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Խնդրում ենք սպասել, միանալով սերվերին..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "ԱՂԵՂՆԱՎՈՐ"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "ԿԱՐԻՃ"
 
 msgid "Select"
-msgstr ""
+msgstr "Ընտրել"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Ընտրեք Կենդանակերպի նշան"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "ՑՈՒԼ"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Այսօրվա Աստղագուշակը"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "ԿՈՒՅՍ"

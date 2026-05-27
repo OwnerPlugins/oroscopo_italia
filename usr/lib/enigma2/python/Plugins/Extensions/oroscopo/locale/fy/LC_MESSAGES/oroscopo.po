@@ -16,55 +16,55 @@ msgid "ARIES"
 msgstr ""
 
 msgid "CANCER"
-msgstr ""
+msgstr "KANKER"
 
 msgid "CAPRICORN"
 msgstr ""
 
 msgid "Change"
-msgstr ""
+msgstr "Feroaring"
 
 msgid "Close"
-msgstr ""
+msgstr "Slute"
 
 msgid "GEMINI"
 msgstr ""
 
 msgid "Information"
-msgstr ""
+msgstr "Ynformaasje"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Itaalje Horoscope"
 
 msgid "LIBRA"
 msgstr ""
 
 msgid "LION"
-msgstr ""
+msgstr "LIUW"
 
 msgid "PISCES"
-msgstr ""
+msgstr "fisk"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Wachtsje asjebleaft, ferbine mei de tsjinner..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "SJOCHTTER"
 
 msgid "SCORPION"
 msgstr ""
 
 msgid "Select"
-msgstr ""
+msgstr "Selektearje"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Selektearje in Zodiac Sign"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "STIER"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "It horoskoop fan hjoed"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "FIRGO"

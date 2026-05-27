@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "കുംഭം"
 
 msgid "ARIES"
-msgstr ""
+msgstr "ഏരീസ്"
 
 msgid "CANCER"
-msgstr ""
+msgstr "കാൻസർ"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "മകരം"
 
 msgid "Change"
-msgstr ""
+msgstr "മാറ്റുക"
 
 msgid "Close"
-msgstr ""
+msgstr "അടയ്ക്കുക"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "മിഥുനം"
 
 msgid "Information"
-msgstr ""
+msgstr "വിവരങ്ങൾ"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "ഇറ്റലി ജാതകം"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "തുലാം"
 
 msgid "LION"
-msgstr ""
+msgstr "സിംഹം"
 
 msgid "PISCES"
-msgstr ""
+msgstr "മത്സ്യം"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "ദയവായി കാത്തിരിക്കൂ, സെർവറിലേക്ക് ബന്ധിപ്പിക്കുന്നു..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "ധനു രാശി"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "തേൾ"
 
 msgid "Select"
-msgstr ""
+msgstr "തിരഞ്ഞെടുക്കുക"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "ഒരു രാശിചിഹ്നം തിരഞ്ഞെടുക്കുക"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "ടോറസ്"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "ഇന്നത്തെ രാശിഫലം"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "കന്യക"

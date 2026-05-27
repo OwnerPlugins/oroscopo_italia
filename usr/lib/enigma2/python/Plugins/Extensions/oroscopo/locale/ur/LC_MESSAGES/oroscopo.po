@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "ایکویریئس"
 
 msgid "ARIES"
-msgstr ""
+msgstr "میش"
 
 msgid "CANCER"
-msgstr ""
+msgstr "کینسر"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "مکر"
 
 msgid "Change"
-msgstr ""
+msgstr "تبدیلی"
 
 msgid "Close"
-msgstr ""
+msgstr "بند"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "جیمنی"
 
 msgid "Information"
-msgstr ""
+msgstr "معلومات"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "اٹلی کا زائچہ"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "لیبرا"
 
 msgid "LION"
-msgstr ""
+msgstr "شیر"
 
 msgid "PISCES"
-msgstr ""
+msgstr "مچھلی"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "براہ کرم انتظار کریں، سرور سے منسلک ہو رہا ہے..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "ساگیٹیریئس"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "بچھو"
 
 msgid "Select"
-msgstr ""
+msgstr "منتخب کریں۔"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "رقم کا نشان منتخب کریں۔"
 
 msgid "TAURUS"
 msgstr ""
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "آج کا زائچہ"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "کنواری"

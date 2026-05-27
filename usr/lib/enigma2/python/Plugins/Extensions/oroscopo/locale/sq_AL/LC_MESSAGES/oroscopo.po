@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "UJORI"
 
 msgid "ARIES"
-msgstr ""
+msgstr "DASHI"
 
 msgid "CANCER"
-msgstr ""
+msgstr "KANCERI"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "BRICJAPI"
 
 msgid "Change"
-msgstr ""
+msgstr "Ndryshimi"
 
 msgid "Close"
-msgstr ""
+msgstr "Mbylle"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "BINJAKËT"
 
 msgid "Information"
-msgstr ""
+msgstr "Informacion"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Horoskopi i Italisë"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "PESHORJA"
 
 msgid "LION"
-msgstr ""
+msgstr "LUANI"
 
 msgid "PISCES"
-msgstr ""
+msgstr "peshku"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Ju lutemi prisni, po lidhet me serverin..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "SHIGJETARI"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "AKREPI"
 
 msgid "Select"
-msgstr ""
+msgstr "Zgjidhni"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Zgjidhni një shenjë të zodiakut"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "DEMI"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Horoskopi i sotëm"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "VIRGJËRESHA"

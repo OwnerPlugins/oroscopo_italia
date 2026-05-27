@@ -16,55 +16,55 @@ msgid "ARIES"
 msgstr ""
 
 msgid "CANCER"
-msgstr ""
+msgstr "БАЛЫК"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "КАПРИКОРН"
 
 msgid "Change"
-msgstr ""
+msgstr "Changeзгәртү"
 
 msgid "Close"
-msgstr ""
+msgstr "Ябу"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "ГЕМИНИ"
 
 msgid "Information"
-msgstr ""
+msgstr "Мәгълүмат"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Италия гороскопы"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "ЛИБРА"
 
 msgid "LION"
-msgstr ""
+msgstr "Арыслан"
 
 msgid "PISCES"
-msgstr ""
+msgstr "балык"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Зинһар, көтегез, серверга тоташып ..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "САГИТТАРИУС"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "Чаян"
 
 msgid "Select"
-msgstr ""
+msgstr "Сайлагыз"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Зодиак билгесен сайлагыз"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "ТАУРУС"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Бүгенге гороскоп"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "ВИРГО"

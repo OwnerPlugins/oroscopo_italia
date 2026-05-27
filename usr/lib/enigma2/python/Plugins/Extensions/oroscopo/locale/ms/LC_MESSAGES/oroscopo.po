@@ -16,37 +16,37 @@ msgid "ARIES"
 msgstr ""
 
 msgid "CANCER"
-msgstr ""
+msgstr "KANSER"
 
 msgid "CAPRICORN"
 msgstr ""
 
 msgid "Change"
-msgstr ""
+msgstr "Berubah"
 
 msgid "Close"
-msgstr ""
+msgstr "tutup"
 
 msgid "GEMINI"
 msgstr ""
 
 msgid "Information"
-msgstr ""
+msgstr "Maklumat"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Horoskop Itali"
 
 msgid "LIBRA"
 msgstr ""
 
 msgid "LION"
-msgstr ""
+msgstr "SINGA"
 
 msgid "PISCES"
-msgstr ""
+msgstr "ikan"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Sila tunggu, menyambung ke pelayan..."
 
 msgid "SAGITTARIUS"
 msgstr ""
@@ -55,16 +55,16 @@ msgid "SCORPION"
 msgstr ""
 
 msgid "Select"
-msgstr ""
+msgstr "Pilih"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Pilih Tanda Zodiak"
 
 msgid "TAURUS"
 msgstr ""
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Horoskop hari ini"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "DARA"

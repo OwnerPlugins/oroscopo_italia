@@ -11,61 +11,61 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "ΥΔΡΟΧΟΟΣ"
 
 msgid "ARIES"
-msgstr ""
+msgstr "ΚΡΙΟΣ"
 
 msgid "CANCER"
-msgstr ""
+msgstr "ΚΑΡΚΙΝΟΣ"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "ΑΙΓΟΚΕΡΩΣ"
 
 msgid "Change"
-msgstr ""
+msgstr "Αλλαγή"
 
 msgid "Close"
-msgstr ""
+msgstr "Κοντά"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "ΔΙΔΥΜΟΙ"
 
 msgid "Information"
-msgstr ""
+msgstr "Πληροφορίες"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Ωροσκόπιο Ιταλίας"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "ΖΥΓΟΣ"
 
 msgid "LION"
-msgstr ""
+msgstr "ΛΙΟΝΤΑΡΙ"
 
 msgid "PISCES"
-msgstr ""
+msgstr "ψάρι"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Περιμένετε, σύνδεση στον διακομιστή..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "ΤΟΞΟΤΗΣ"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "ΣΚΟΡΠΙΟΣ"
 
 msgid "Select"
-msgstr ""
+msgstr "Επιλέγω"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Επιλέξτε ένα ζώδιο"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "ΤΑΥΡΟΣ"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Το σημερινό Ωροσκόπιο"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "ΠΑΡΘΕΝΟΣ"

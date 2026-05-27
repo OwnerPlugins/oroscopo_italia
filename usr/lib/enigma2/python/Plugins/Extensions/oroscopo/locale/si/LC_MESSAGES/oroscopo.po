@@ -13,58 +13,58 @@ msgid "AQUARIUS"
 msgstr ""
 
 msgid "ARIES"
-msgstr ""
+msgstr "මේෂ"
 
 msgid "CANCER"
-msgstr ""
+msgstr "පිළිකා"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "මකර ලග්නය"
 
 msgid "Change"
-msgstr ""
+msgstr "වෙනස් කරන්න"
 
 msgid "Close"
-msgstr ""
+msgstr "වසන්න"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "මිථුන ලග්නය"
 
 msgid "Information"
-msgstr ""
+msgstr "තොරතුරු"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "ඉතාලියේ කේන්දර සටහන"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "ලිබ්රා"
 
 msgid "LION"
-msgstr ""
+msgstr "සිංහයා"
 
 msgid "PISCES"
-msgstr ""
+msgstr "මාළු"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "කරුණාකර රැඳී සිටින්න, සේවාදායකයට සම්බන්ධ වෙමින්..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "ධනු ලග්නය"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "ගෝනුස්සන්"
 
 msgid "Select"
-msgstr ""
+msgstr "තෝරන්න"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Zodiac ලකුණක් තෝරන්න"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "ටෝරස්"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "අද ලග්න පලාපල"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "කන්‍යාව"

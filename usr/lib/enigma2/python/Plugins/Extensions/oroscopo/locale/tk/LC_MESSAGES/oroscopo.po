@@ -16,55 +16,55 @@ msgid "ARIES"
 msgstr ""
 
 msgid "CANCER"
-msgstr ""
+msgstr "ANCAŞA .YŞ"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "KAPRIKORN"
 
 msgid "Change"
-msgstr ""
+msgstr "Üýtget"
 
 msgid "Close"
-msgstr ""
+msgstr ".Akyn"
 
 msgid "GEMINI"
 msgstr ""
 
 msgid "Information"
-msgstr ""
+msgstr "Maglumat"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Italiýa goroskopy"
 
 msgid "LIBRA"
 msgstr ""
 
 msgid "LION"
-msgstr ""
+msgstr "Lionolbars"
 
 msgid "PISCES"
-msgstr ""
+msgstr "balyk"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Serwere birigip garaşyň ..."
 
 msgid "SAGITTARIUS"
 msgstr ""
 
 msgid "SCORPION"
-msgstr ""
+msgstr "ÇORK"
 
 msgid "Select"
-msgstr ""
+msgstr "Saýlaň"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Zodiak belgisini saýlaň"
 
 msgid "TAURUS"
 msgstr ""
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Şu günki goroskop"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "WIRGO"

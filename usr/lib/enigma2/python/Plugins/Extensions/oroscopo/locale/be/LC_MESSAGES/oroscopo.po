@@ -11,61 +11,61 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "ВАДАЛІЎ"
 
 msgid "ARIES"
-msgstr ""
+msgstr "АВЕН"
 
 msgid "CANCER"
-msgstr ""
+msgstr "РАК"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "КАЗЯРОГ"
 
 msgid "Change"
-msgstr ""
+msgstr "Змена"
 
 msgid "Close"
-msgstr ""
+msgstr "Блізка"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "БЛІЗНЯТЫ"
 
 msgid "Information"
-msgstr ""
+msgstr "інфармацыя"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Гараскоп Італіі"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "ШАЛІ"
 
 msgid "LION"
-msgstr ""
+msgstr "ЛЕЎ"
 
 msgid "PISCES"
-msgstr ""
+msgstr "рыба"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Пачакайце, падключэнне да сервера..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "СТРАЛЕЦ"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "СКАРПІЁН"
 
 msgid "Select"
-msgstr ""
+msgstr "Выберыце"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Выберыце знак задыяку"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "ЦЯЛЕЦ"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Гараскоп на сёння"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "ПАННА"

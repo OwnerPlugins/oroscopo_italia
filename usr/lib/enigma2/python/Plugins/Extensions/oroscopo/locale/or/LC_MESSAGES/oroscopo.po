@@ -16,55 +16,55 @@ msgid "ARIES"
 msgstr ""
 
 msgid "CANCER"
-msgstr ""
+msgstr "କର୍କଟ"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "କ୍ୟାପ୍ରିକର୍ |"
 
 msgid "Change"
-msgstr ""
+msgstr "ପରିବର୍ତ୍ତନ କରନ୍ତୁ |"
 
 msgid "Close"
-msgstr ""
+msgstr "ବନ୍ଦ"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "ମିଥୁନ"
 
 msgid "Information"
-msgstr ""
+msgstr "ସୂଚନା"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "ଇଟାଲୀ ରାଶିଫଳ |"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "ଲିବ୍ରା |"
 
 msgid "LION"
-msgstr ""
+msgstr "ସିଂହ"
 
 msgid "PISCES"
-msgstr ""
+msgstr "ମାଛ |"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "ସର୍ଭର ସହିତ ସଂଯୋଗ କରି ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ ..."
 
 msgid "SAGITTARIUS"
 msgstr ""
 
 msgid "SCORPION"
-msgstr ""
+msgstr "ସ୍କୋର୍ପିଅନ୍ |"
 
 msgid "Select"
-msgstr ""
+msgstr "ଚୟନ କରନ୍ତୁ |"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "ଏକ ରାଶି ଚିହ୍ନ ବାଛନ୍ତୁ |"
 
 msgid "TAURUS"
 msgstr ""
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "ଆଜିର ରାଶିଫଳ |"
 
 msgid "VIRGO"
 msgstr ""

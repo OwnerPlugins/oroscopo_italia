@@ -13,40 +13,40 @@ msgid "AQUARIUS"
 msgstr ""
 
 msgid "ARIES"
-msgstr ""
+msgstr "ARIAN"
 
 msgid "CANCER"
-msgstr ""
+msgstr "CANSER"
 
 msgid "CAPRICORN"
 msgstr ""
 
 msgid "Change"
-msgstr ""
+msgstr "Newid"
 
 msgid "Close"
-msgstr ""
+msgstr "Cau"
 
 msgid "GEMINI"
 msgstr ""
 
 msgid "Information"
-msgstr ""
+msgstr "Gwybodaeth"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Horosgop yr Eidal"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "LLYFRGELL"
 
 msgid "LION"
-msgstr ""
+msgstr "LLION"
 
 msgid "PISCES"
-msgstr ""
+msgstr "pysgodyn"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Arhoswch, gan gysylltu â'r gweinydd..."
 
 msgid "SAGITTARIUS"
 msgstr ""
@@ -55,16 +55,16 @@ msgid "SCORPION"
 msgstr ""
 
 msgid "Select"
-msgstr ""
+msgstr "Dewiswch"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Dewiswch Arwydd Sidydd"
 
 msgid "TAURUS"
 msgstr ""
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Horosgop heddiw"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "FIRGO"

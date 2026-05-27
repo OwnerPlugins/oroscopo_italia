@@ -16,37 +16,37 @@ msgid "ARIES"
 msgstr ""
 
 msgid "CANCER"
-msgstr ""
+msgstr "سرطان"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "کیپریکورن"
 
 msgid "Change"
-msgstr ""
+msgstr "بدلون"
 
 msgid "Close"
-msgstr ""
+msgstr "تړل"
 
 msgid "GEMINI"
 msgstr ""
 
 msgid "Information"
-msgstr ""
+msgstr "معلومات"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "د ایټالیا Horoscope"
 
 msgid "LIBRA"
 msgstr ""
 
 msgid "LION"
-msgstr ""
+msgstr "شیر"
 
 msgid "PISCES"
-msgstr ""
+msgstr "کب"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "مهرباني وکړئ انتظار وکړئ، سرور سره نښلول ..."
 
 msgid "SAGITTARIUS"
 msgstr ""
@@ -55,16 +55,16 @@ msgid "SCORPION"
 msgstr ""
 
 msgid "Select"
-msgstr ""
+msgstr "وټاکئ"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "د زودیاک نښه غوره کړئ"
 
 msgid "TAURUS"
 msgstr ""
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "د نن ورځې افق"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "ویرجو"

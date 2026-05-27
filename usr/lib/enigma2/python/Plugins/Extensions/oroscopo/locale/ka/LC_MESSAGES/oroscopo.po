@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "მერწყული"
 
 msgid "ARIES"
-msgstr ""
+msgstr "ვერძი"
 
 msgid "CANCER"
-msgstr ""
+msgstr "კიბო"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "თხის რქა"
 
 msgid "Change"
-msgstr ""
+msgstr "შეცვლა"
 
 msgid "Close"
-msgstr ""
+msgstr "დახურვა"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "ტყუპები"
 
 msgid "Information"
-msgstr ""
+msgstr "ინფორმაცია"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "იტალიის ჰოროსკოპი"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "სასწორი"
 
 msgid "LION"
-msgstr ""
+msgstr "ლომი"
 
 msgid "PISCES"
-msgstr ""
+msgstr "თევზი"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "გთხოვთ დაელოდოთ, სერვერთან დაკავშირება..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "მშვილდოსანი"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "მორიელი"
 
 msgid "Select"
-msgstr ""
+msgstr "აირჩიეთ"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "აირჩიეთ ზოდიაქოს ნიშანი"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "კურო"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "დღევანდელი ჰოროსკოპი"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "ქალწული"

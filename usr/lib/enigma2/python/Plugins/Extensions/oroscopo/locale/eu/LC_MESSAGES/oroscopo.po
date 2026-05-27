@@ -16,55 +16,55 @@ msgid "ARIES"
 msgstr ""
 
 msgid "CANCER"
-msgstr ""
+msgstr "MINBIZIA"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "KAPRIKORIOA"
 
 msgid "Change"
-msgstr ""
+msgstr "Aldatu"
 
 msgid "Close"
-msgstr ""
+msgstr "Itxi"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "GEMINIAK"
 
 msgid "Information"
-msgstr ""
+msgstr "Informazioa"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Italiako horoskopoa"
 
 msgid "LIBRA"
 msgstr ""
 
 msgid "LION"
-msgstr ""
+msgstr "LEHOIA"
 
 msgid "PISCES"
-msgstr ""
+msgstr "arraina"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Mesedez, itxaron, zerbitzarira konektatzen..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "SAGITARIO"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "ESKORPIOIA"
 
 msgid "Select"
-msgstr ""
+msgstr "Hautatu"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Hautatu zodiako zeinu bat"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "TAURO"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Gaurko horoskopoa"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "AMARIA"

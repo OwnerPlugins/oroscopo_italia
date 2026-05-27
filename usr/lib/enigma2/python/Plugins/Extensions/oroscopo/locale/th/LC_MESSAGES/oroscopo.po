@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "ราศีกุมภ์"
 
 msgid "ARIES"
-msgstr ""
+msgstr "ราศีเมษ"
 
 msgid "CANCER"
-msgstr ""
+msgstr "มะเร็ง"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "ราศีมังกร"
 
 msgid "Change"
-msgstr ""
+msgstr "เปลี่ยน"
 
 msgid "Close"
-msgstr ""
+msgstr "ปิด"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "ราศีเมถุน"
 
 msgid "Information"
-msgstr ""
+msgstr "ข้อมูล"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "ดูดวงอิตาลี"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "ราศีตุลย์"
 
 msgid "LION"
-msgstr ""
+msgstr "สิงโต"
 
 msgid "PISCES"
-msgstr ""
+msgstr "ปลา"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "กรุณารอสักครู่ กำลังเชื่อมต่อกับเซิร์ฟเวอร์..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "ราศีธนู"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "แมงป่อง"
 
 msgid "Select"
-msgstr ""
+msgstr "เลือก"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "เลือกราศี"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "ราศีพฤษภ"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "ดวงวันนี้"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "ราศีกันย์"

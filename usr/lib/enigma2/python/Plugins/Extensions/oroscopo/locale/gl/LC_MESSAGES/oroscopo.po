@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "ACUARIO"
 
 msgid "ARIES"
 msgstr ""
@@ -19,52 +19,52 @@ msgid "CANCER"
 msgstr ""
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "CAPRICORNIO"
 
 msgid "Change"
-msgstr ""
+msgstr "Cambiar"
 
 msgid "Close"
-msgstr ""
+msgstr "Pechar"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "XÉMENES"
 
 msgid "Information"
-msgstr ""
+msgstr "Información"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Horóscopo de Italia"
 
 msgid "LIBRA"
 msgstr ""
 
 msgid "LION"
-msgstr ""
+msgstr "LEÓN"
 
 msgid "PISCES"
-msgstr ""
+msgstr "peixe"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Agarde, conectándose ao servidor..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "SAXITARIO"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "ESCORPION"
 
 msgid "Select"
-msgstr ""
+msgstr "Seleccione"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Seleccione un signo do zodíaco"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "TAURO"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Horóscopo de hoxe"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "VIRXE"

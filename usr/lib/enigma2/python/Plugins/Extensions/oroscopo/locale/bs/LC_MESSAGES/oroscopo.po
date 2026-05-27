@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "VODOLIJA"
 
 msgid "ARIES"
-msgstr ""
+msgstr "OVAN"
 
 msgid "CANCER"
-msgstr ""
+msgstr "RAK"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "JARAC"
 
 msgid "Change"
-msgstr ""
+msgstr "Promjena"
 
 msgid "Close"
-msgstr ""
+msgstr "Zatvori"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "BLIZANCI"
 
 msgid "Information"
-msgstr ""
+msgstr "Informacije"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Italija horoskop"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "VAGA"
 
 msgid "LION"
 msgstr ""
 
 msgid "PISCES"
-msgstr ""
+msgstr "riba"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Molimo pričekajte, povezivanje na server..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "STRELAC"
 
 msgid "SCORPION"
 msgstr ""
 
 msgid "Select"
-msgstr ""
+msgstr "Odaberite"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Odaberite horoskopski znak"
 
 msgid "TAURUS"
 msgstr ""
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Današnji horoskop"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "DJEVICA"

@@ -22,19 +22,19 @@ msgid "CAPRICORN"
 msgstr ""
 
 msgid "Change"
-msgstr ""
+msgstr "ئۆزگەرتىش"
 
 msgid "Close"
-msgstr ""
+msgstr "تاقاش"
 
 msgid "GEMINI"
 msgstr ""
 
 msgid "Information"
-msgstr ""
+msgstr "ئۇچۇر"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "ئىتالىيە Horoscope"
 
 msgid "LIBRA"
 msgstr ""
@@ -43,10 +43,10 @@ msgid "LION"
 msgstr ""
 
 msgid "PISCES"
-msgstr ""
+msgstr "بېلىق"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "ساقلاڭ ، مۇلازىمېتىرغا ئۇلاڭ ..."
 
 msgid "SAGITTARIUS"
 msgstr ""
@@ -55,16 +55,16 @@ msgid "SCORPION"
 msgstr ""
 
 msgid "Select"
-msgstr ""
+msgstr "تاللاڭ"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "مۆچەل بەلگىسىنى تاللاڭ"
 
 msgid "TAURUS"
 msgstr ""
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "بۈگۈنكى Horoscope"
 
 msgid "VIRGO"
 msgstr ""

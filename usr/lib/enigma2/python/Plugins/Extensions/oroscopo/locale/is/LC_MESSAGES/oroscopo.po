@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "Vatnsberinn"
 
 msgid "ARIES"
-msgstr ""
+msgstr "Hrútur"
 
 msgid "CANCER"
-msgstr ""
+msgstr "KRABBAMEIN"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "Steingeit"
 
 msgid "Change"
-msgstr ""
+msgstr "Breyta"
 
 msgid "Close"
-msgstr ""
+msgstr "Loka"
 
 msgid "GEMINI"
 msgstr ""
 
 msgid "Information"
-msgstr ""
+msgstr "Upplýsingar"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Stjörnuspá Ítalíu"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "VÓG"
 
 msgid "LION"
-msgstr ""
+msgstr "LJÓN"
 
 msgid "PISCES"
-msgstr ""
+msgstr "fiskur"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Vinsamlegast bíddu, tengist þjóninum..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "BODTI"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "SPORÐDREIÐUR"
 
 msgid "Select"
-msgstr ""
+msgstr "Veldu"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Veldu Stjörnumerki"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "NAUTUR"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Stjörnuspá dagsins"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "MEYJA"

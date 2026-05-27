@@ -13,58 +13,58 @@ msgid "AQUARIUS"
 msgstr ""
 
 msgid "ARIES"
-msgstr ""
+msgstr "QO'Y"
 
 msgid "CANCER"
-msgstr ""
+msgstr "SARATON"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "OĞLAK"
 
 msgid "Change"
-msgstr ""
+msgstr "O'zgartirish"
 
 msgid "Close"
-msgstr ""
+msgstr "Yopish"
 
 msgid "GEMINI"
 msgstr ""
 
 msgid "Information"
-msgstr ""
+msgstr "Ma'lumot"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Italiya munajjimlar bashorati"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "TARAZI"
 
 msgid "LION"
-msgstr ""
+msgstr "sher"
 
 msgid "PISCES"
-msgstr ""
+msgstr "baliq"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Iltimos, kuting, serverga ulanmoqda..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "YAYVON"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "CHAYON"
 
 msgid "Select"
-msgstr ""
+msgstr "Tanlang"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Zodiak belgisini tanlang"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "TAVRO"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Bugungi munajjimlar bashorati"
 
 msgid "VIRGO"
 msgstr ""

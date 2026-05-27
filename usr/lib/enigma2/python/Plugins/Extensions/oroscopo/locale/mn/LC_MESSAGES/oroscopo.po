@@ -13,58 +13,58 @@ msgid "AQUARIUS"
 msgstr ""
 
 msgid "ARIES"
-msgstr ""
+msgstr "ХОНЬ"
 
 msgid "CANCER"
-msgstr ""
+msgstr "ХАВДАР"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "МАТАР"
 
 msgid "Change"
-msgstr ""
+msgstr "Өөрчлөх"
 
 msgid "Close"
-msgstr ""
+msgstr "Хаах"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "ИХЭР"
 
 msgid "Information"
-msgstr ""
+msgstr "Мэдээлэл"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Итали зурхай"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "ЖИНЛҮҮР"
 
 msgid "LION"
-msgstr ""
+msgstr "АРСЛАН"
 
 msgid "PISCES"
-msgstr ""
+msgstr "загас"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Түр хүлээнэ үү, серверт холбогдож байна..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "НУМ"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "SCORPIO"
 
 msgid "Select"
-msgstr ""
+msgstr "Сонго"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Zodiac тэмдгийг сонгоно уу"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "ҮХЭР"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Өнөөдрийн зурхай"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "Охины орд"

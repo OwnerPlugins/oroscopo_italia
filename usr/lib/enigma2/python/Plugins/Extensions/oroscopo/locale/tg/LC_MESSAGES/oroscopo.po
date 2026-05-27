@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "ДАВВ"
 
 msgid "ARIES"
-msgstr ""
+msgstr "ХОР"
 
 msgid "CANCER"
-msgstr ""
+msgstr "САРАТОН"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "МУЗУР"
 
 msgid "Change"
-msgstr ""
+msgstr "Тағйир"
 
 msgid "Close"
-msgstr ""
+msgstr "Пӯшед"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "БУРД"
 
 msgid "Information"
-msgstr ""
+msgstr "Маълумот"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Гороскопи Италия"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "ТАРОЗ"
 
 msgid "LION"
-msgstr ""
+msgstr "ШЕР"
 
 msgid "PISCES"
-msgstr ""
+msgstr "моҳӣ"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Лутфан интизор шавед, пайвастшавӣ ба сервер..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "КАВС"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "СКОРПИОН"
 
 msgid "Select"
-msgstr ""
+msgstr "Интихоб кунед"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Аломати зодиакро интихоб кунед"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "БОЗ"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Гороскопи имрӯза"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "БИКОР"

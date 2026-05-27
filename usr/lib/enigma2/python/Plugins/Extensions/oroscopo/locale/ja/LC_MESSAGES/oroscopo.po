@@ -11,61 +11,61 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "水瓶座"
 
 msgid "ARIES"
-msgstr ""
+msgstr "牡羊座"
 
 msgid "CANCER"
-msgstr ""
+msgstr "癌"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "山羊座"
 
 msgid "Change"
-msgstr ""
+msgstr "変化"
 
 msgid "Close"
-msgstr ""
+msgstr "近い"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "ジェミニ"
 
 msgid "Information"
-msgstr ""
+msgstr "情報"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "イタリアの星占い"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "天秤座"
 
 msgid "LION"
-msgstr ""
+msgstr "ライオン"
 
 msgid "PISCES"
-msgstr ""
+msgstr "魚"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "サーバーに接続中ですのでお待ちください..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "いて座"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "スコーピオン"
 
 msgid "Select"
-msgstr ""
+msgstr "選択"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "星座を選択してください"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "おうし座"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "今日の星占い"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "乙女座"

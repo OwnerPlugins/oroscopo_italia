@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "కుంభం"
 
 msgid "ARIES"
-msgstr ""
+msgstr "మేషరాశి"
 
 msgid "CANCER"
-msgstr ""
+msgstr "క్యాన్సర్"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "మకరం"
 
 msgid "Change"
-msgstr ""
+msgstr "మార్చండి"
 
 msgid "Close"
-msgstr ""
+msgstr "మూసివేయి"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "మిధున రాశి"
 
 msgid "Information"
-msgstr ""
+msgstr "సమాచారం"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "ఇటలీ జాతకం"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "తుల"
 
 msgid "LION"
-msgstr ""
+msgstr "సింహం"
 
 msgid "PISCES"
-msgstr ""
+msgstr "చేప"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "దయచేసి వేచి ఉండండి, సర్వర్‌కి కనెక్ట్ చేస్తోంది..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "ధనుస్సు రాశి"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "తేలు"
 
 msgid "Select"
-msgstr ""
+msgstr "ఎంచుకోండి"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "రాశిచక్ర గుర్తును ఎంచుకోండి"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "వృషభ రాశి"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "నేటి రాశిఫలం"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "కన్య"

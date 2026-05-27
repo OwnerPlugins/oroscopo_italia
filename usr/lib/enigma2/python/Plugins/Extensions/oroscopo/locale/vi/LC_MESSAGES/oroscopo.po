@@ -11,61 +11,61 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "Bảo Bình"
 
 msgid "ARIES"
-msgstr ""
+msgstr "Bạch Dương"
 
 msgid "CANCER"
-msgstr ""
+msgstr "BỆNH UNG THƯ"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "Ma Kết"
 
 msgid "Change"
-msgstr ""
+msgstr "Thay đổi"
 
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "Song Tử"
 
 msgid "Information"
-msgstr ""
+msgstr "Thông tin"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Tử vi Ý"
 
 msgid "LIBRA"
 msgstr ""
 
 msgid "LION"
-msgstr ""
+msgstr "CON SƯ TỬ"
 
 msgid "PISCES"
-msgstr ""
+msgstr "cá"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Vui lòng đợi, đang kết nối với máy chủ..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "Nhân Mã"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "BỌ CẠP"
 
 msgid "Select"
-msgstr ""
+msgstr "Lựa chọn"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Chọn một cung hoàng đạo"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "Kim Ngưu"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Tử vi hôm nay"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "Xử Nữ"

@@ -11,61 +11,61 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "מַזָל דְלִי"
 
 msgid "ARIES"
-msgstr ""
+msgstr "מַזַל טָלֶה"
 
 msgid "CANCER"
-msgstr ""
+msgstr "סַרְטָן"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "מַזַל גְדִי"
 
 msgid "Change"
-msgstr ""
+msgstr "לְשַׁנוֹת"
 
 msgid "Close"
-msgstr ""
+msgstr "לִסְגוֹר"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "מַזַל תְאוּמִים"
 
 msgid "Information"
-msgstr ""
+msgstr "מֵידָע"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "הורוסקופ איטליה"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "מֹאזנַיִם"
 
 msgid "LION"
-msgstr ""
+msgstr "אַריֵה"
 
 msgid "PISCES"
-msgstr ""
+msgstr "לָדוּג"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "אנא המתן, מתחבר לשרת..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "מַזַל קַשָׁת"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "עַקרָב"
 
 msgid "Select"
-msgstr ""
+msgstr "לִבחוֹר"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "בחר סימן גלגל המזלות"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "מַזַל שׁוֹר"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "ההורוסקופ של היום"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "מַזַל בְּתוּלָה"

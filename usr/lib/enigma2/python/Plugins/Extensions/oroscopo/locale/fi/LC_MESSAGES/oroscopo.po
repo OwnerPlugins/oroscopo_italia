@@ -11,61 +11,61 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "VESIMIES"
 
 msgid "ARIES"
-msgstr ""
+msgstr "OINAS"
 
 msgid "CANCER"
-msgstr ""
+msgstr "SYÖPÄ"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "KAURIS"
 
 msgid "Change"
-msgstr ""
+msgstr "Muuttaa"
 
 msgid "Close"
-msgstr ""
+msgstr "Lähellä"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "KAKSOSET"
 
 msgid "Information"
-msgstr ""
+msgstr "Tiedot"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Italian horoskooppi"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "VAAKA"
 
 msgid "LION"
-msgstr ""
+msgstr "LEIJONA"
 
 msgid "PISCES"
-msgstr ""
+msgstr "kalastaa"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Odota, muodostetaan yhteyttä palvelimeen..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "JOUSIMIES"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "SKORPIONI"
 
 msgid "Select"
-msgstr ""
+msgstr "Valitse"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Valitse horoskooppi"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "HÄRKÄ"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Tämän päivän horoskooppi"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "NEITSYT"

@@ -11,61 +11,61 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "AN tUisceadóir"
 
 msgid "ARIES"
-msgstr ""
+msgstr "AIRÍ"
 
 msgid "CANCER"
-msgstr ""
+msgstr "AILSE"
 
 msgid "CAPRICORN"
 msgstr ""
 
 msgid "Change"
-msgstr ""
+msgstr "Athrú"
 
 msgid "Close"
-msgstr ""
+msgstr "Dún"
 
 msgid "GEMINI"
 msgstr ""
 
 msgid "Information"
-msgstr ""
+msgstr "Eolas"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Horoscope an Iodáil"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "LEABHAR"
 
 msgid "LION"
 msgstr ""
 
 msgid "PISCES"
-msgstr ""
+msgstr "iasc"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Fan go fóill, ag nascadh leis an bhfreastalaí..."
 
 msgid "SAGITTARIUS"
 msgstr ""
 
 msgid "SCORPION"
-msgstr ""
+msgstr "Scairp"
 
 msgid "Select"
-msgstr ""
+msgstr "Roghnaigh"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Roghnaigh Comhartha Stoidiaca"
 
 msgid "TAURUS"
 msgstr ""
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Horoscope an lae inniu"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "Maighdean"

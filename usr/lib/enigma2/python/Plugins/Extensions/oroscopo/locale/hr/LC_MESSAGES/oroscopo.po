@@ -11,61 +11,61 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "VODENJAK"
 
 msgid "ARIES"
-msgstr ""
+msgstr "OVAN"
 
 msgid "CANCER"
-msgstr ""
+msgstr "RAK"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "JARAC"
 
 msgid "Change"
-msgstr ""
+msgstr "Promijeniti"
 
 msgid "Close"
-msgstr ""
+msgstr "Zatvoriti"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "BLIZANCI"
 
 msgid "Information"
-msgstr ""
+msgstr "Informacija"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Italija Horoskop"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "VAGA"
 
 msgid "LION"
-msgstr ""
+msgstr "LAV"
 
 msgid "PISCES"
-msgstr ""
+msgstr "riba"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Pričekajte, spajanje na poslužitelj..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "STRIJELAC"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "ŠKORPION"
 
 msgid "Select"
-msgstr ""
+msgstr "Odaberite"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Odaberite horoskopski znak"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "BIK"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Današnji horoskop"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "DJEVICA"

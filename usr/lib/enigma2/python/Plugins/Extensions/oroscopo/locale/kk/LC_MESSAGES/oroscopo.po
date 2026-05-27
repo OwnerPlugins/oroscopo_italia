@@ -10,61 +10,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "СУВАЙН"
 
 msgid "ARIES"
-msgstr ""
+msgstr "ТОВЫҚ"
 
 msgid "CANCER"
-msgstr ""
+msgstr "РАК"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "Козерог"
 
 msgid "Change"
-msgstr ""
+msgstr "Өзгерту"
 
 msgid "Close"
-msgstr ""
+msgstr "Жабу"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "Егіздер"
 
 msgid "Information"
-msgstr ""
+msgstr "Ақпарат"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Италия гороскопы"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "ТАРАЗЫ"
 
 msgid "LION"
-msgstr ""
+msgstr "АРЫСТАН"
 
 msgid "PISCES"
-msgstr ""
+msgstr "балық"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Күте тұрыңыз, серверге қосылуда..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "СЕГИТТАР"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "СКОРПИОН"
 
 msgid "Select"
-msgstr ""
+msgstr "таңдаңыз"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Зодиак белгісін таңдаңыз"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "ТОЛЫҚ"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Бүгінгі жұлдыз жорамал"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "Бикеш"

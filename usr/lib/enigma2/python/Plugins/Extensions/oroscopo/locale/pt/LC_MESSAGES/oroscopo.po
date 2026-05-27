@@ -11,61 +11,61 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "AQUÁRIO"
 
 msgid "ARIES"
-msgstr ""
+msgstr "ÁRIES"
 
 msgid "CANCER"
-msgstr ""
+msgstr "CÂNCER"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "CAPRICÓRNIO"
 
 msgid "Change"
-msgstr ""
+msgstr "Mudar"
 
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "GÊMEOS"
 
 msgid "Information"
-msgstr ""
+msgstr "Informação"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "Horóscopo da Itália"
 
 msgid "LIBRA"
 msgstr ""
 
 msgid "LION"
-msgstr ""
+msgstr "LEÃO"
 
 msgid "PISCES"
-msgstr ""
+msgstr "peixe"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Aguarde, conectando-se ao servidor..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "SAGITÁRIO"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "ESCORPIÃO"
 
 msgid "Select"
-msgstr ""
+msgstr "Selecione"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Selecione um signo do zodíaco"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "TOURO"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Horóscopo de hoje"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "VIRGEM"

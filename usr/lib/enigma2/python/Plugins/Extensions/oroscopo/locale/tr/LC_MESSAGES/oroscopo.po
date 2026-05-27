@@ -11,61 +11,61 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "AQUARIUS"
-msgstr ""
+msgstr "KOVA"
 
 msgid "ARIES"
-msgstr ""
+msgstr "KOÇ BURCU"
 
 msgid "CANCER"
-msgstr ""
+msgstr "KANSER"
 
 msgid "CAPRICORN"
-msgstr ""
+msgstr "OĞLAK"
 
 msgid "Change"
-msgstr ""
+msgstr "Değiştirmek"
 
 msgid "Close"
-msgstr ""
+msgstr "Kapalı"
 
 msgid "GEMINI"
-msgstr ""
+msgstr "İKİZLER BURCU"
 
 msgid "Information"
-msgstr ""
+msgstr "Bilgi"
 
 msgid "Italy Horoscope"
-msgstr ""
+msgstr "İtalya Burç"
 
 msgid "LIBRA"
-msgstr ""
+msgstr "TERAZİ"
 
 msgid "LION"
-msgstr ""
+msgstr "ASLAN"
 
 msgid "PISCES"
-msgstr ""
+msgstr "balık"
 
 msgid "Please wait, connecting to the server..."
-msgstr ""
+msgstr "Lütfen bekleyin, sunucuya bağlanılıyor..."
 
 msgid "SAGITTARIUS"
-msgstr ""
+msgstr "YAY"
 
 msgid "SCORPION"
-msgstr ""
+msgstr "AKREP"
 
 msgid "Select"
-msgstr ""
+msgstr "Seçme"
 
 msgid "Select a Zodiac Sign"
-msgstr ""
+msgstr "Bir Burç Seçin"
 
 msgid "TAURUS"
-msgstr ""
+msgstr "BOĞA BURCU"
 
 msgid "Today's Horoscope"
-msgstr ""
+msgstr "Bugünkü Burç"
 
 msgid "VIRGO"
-msgstr ""
+msgstr "BAŞAK"
