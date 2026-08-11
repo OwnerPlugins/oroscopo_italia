@@ -1,27 +1,5 @@
 #, fuzzy
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgid "AQUARIUS"
 msgstr ""
 
